@@ -44,23 +44,23 @@ hand_check(val2, possible_moves)
 print(val)
 
 
-if hand_1 == scissssssors:
-    paper = 1
-    scissssssors = 2
-    rock = 3
-elif hand_1 = rock:
-    scissssssors = 1
-    rock = 2
-    paper = 3
-else hand_1 = paper:
-    rock = 1
-    paper = 2
-    scissssssors = 3
-hand_1 = 2
+# if hand_1 == scissssssors:
+#     paper = 1
+#     scissssssors = 2
+#     rock = 3
+# elif hand_1 == rock:
+#     scissssssors = 1
+#     rock = 2
+#     paper = 3
+# else hand_1 == paper:
+#     rock = 1
+#     paper = 2
+#     scissssssors = 3
+# hand_1 = 2
 
-if hand_2 > hand_1:
-    print("Player Two, a winner is you!")
-elif hand_2 = hand_1:
-    print("Tie Game, you both suck!")
-else:
-    print("Player One, you won son!")
+# if hand_2 > hand_1:
+#     print("Player Two, a winner is you!")
+# elif hand_2 == hand_1:
+#     print("Tie Game, you both suck!")
+# else:
+#     print("Player One, you won son!")
